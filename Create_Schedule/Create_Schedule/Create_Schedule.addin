@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>Create_Schedule.dll</Assembly>
+    <ClientId>6010F177-F58A-4388-93A7-5C22464961C7</ClientId>
+    <FullClassName>Create_Schedule.MainClass</FullClassName>
+    <Text>Create Schedule</Text>
+    <Description>Sample for creating schedule </Description>
+    <VendorId>TwentyTwo</VendorId>
+    <VendorDescription>TwentyTwo, https://twentytwo.space</VendorDescription>
+  </AddIn>
+</RevitAddIns>
